@@ -8,7 +8,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.font_manager as fm
-path = 'D:/pywork/book_list.xlsx'
+path = '../Douban_Analysis/book_list.xlsx'
 sheet1 = '机器学习'
 sheet2 = '计算机'
 sheet3 = 'linux'
