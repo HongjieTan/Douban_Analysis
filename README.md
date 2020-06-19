@@ -47,4 +47,4 @@ clone或下载解压后进入目录，打开analysis-and-display.py，即可使�
 
 ## 如何贡献
 
-因为本人也是一名初学者难免会有疏漏，因此非常欢迎大家的指正！[提一个 Issue](https://github.com/HongjieTan/Douban_Analysis) 或者提交一个 [Pull Request](https://github.com/HongjieTan/Douban_Analysis/pulls)。
+因为本人也是一名初学者难免会有疏漏，因此非常欢迎大家的指正！[提一个 Issue](https://github.com/HongjieTan/Douban_Analysis/issues) 或者提交一个 [Pull Request](https://github.com/HongjieTan/Douban_Analysis/pulls)。
